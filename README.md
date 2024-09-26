@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndWeiss
-- 👀 I’m interested in computational fluid mechanics / physical simulations, visuals, sounds, art.. 
+- 👀 I’m interested in physical simulations, audio reactive visuals, visual reactive audio, sounds, art, computational fluid dynamics
 - 🌱 I’m currently learning openFOAM, Processing, p5js, python.. 
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me, send me a message
